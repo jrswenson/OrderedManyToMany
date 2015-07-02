@@ -1,0 +1,10 @@
+**.suo
+**.csproj.user
+**/[Bb]in/**
+**/[Oo]bj/**
+**/App_Data/**
+**/*Documents/**
+packages/**
+Publish/**
+**/[Ll]og/**
+**.[Ll]og
